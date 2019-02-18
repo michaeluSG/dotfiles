@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = zsh git_setup.shMichael Ulryck
-	name = cd ~/code/$GITHUB_USERNAME/dotfiles
+	email = michael.ulryck@gmail.com
+	name = Michael Ulryck
